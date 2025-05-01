@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Dominic Mokaya Rosana",
+  "license": "MIT",
+  "description": "express",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1"
+  }
+}
